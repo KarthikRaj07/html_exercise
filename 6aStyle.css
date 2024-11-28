@@ -1,0 +1,9 @@
+body{
+  background-color: bisque;
+}
+p{
+  font-weight: bold;
+  color: rebeccapurple;
+  background-color: red;
+  text-align: center;
+}
